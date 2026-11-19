@@ -1,0 +1,9 @@
+# A100-SXM4-80GB: 108 SMs. Small configuration for local PP2 validation.
+sm_group_num: 3
+manual_divisions:
+  - [80, 28, 1]
+decode_bs_divisor: 16
+split_forward_token_budget: 4096
+pp_profile_decode: false
+pp_prefetch: true
+pp_async_decode: true

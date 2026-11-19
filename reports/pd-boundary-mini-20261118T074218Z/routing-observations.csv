@@ -1,0 +1,9 @@
+﻿case,worker,role,requests_lower_bound,requests_upper_bound,pair_total_requests,pair_ambiguous_initial_second_requests,method
+D1,0,prefill,6,7,15,1,Exclude formal-origin second to avoid warmup contamination; all later successful POST headers counted. Bounds coupled: pair totals exactly15.
+D1,1,prefill,8,9,15,1,Exclude formal-origin second to avoid warmup contamination; all later successful POST headers counted. Bounds coupled: pair totals exactly15.
+D1,2,decode,6,7,15,1,Exclude formal-origin second to avoid warmup contamination; all later successful POST headers counted. Bounds coupled: pair totals exactly15.
+D1,3,decode,8,9,15,1,Exclude formal-origin second to avoid warmup contamination; all later successful POST headers counted. Bounds coupled: pair totals exactly15.
+D2,0,prefill,5,6,15,1,Exclude formal-origin second to avoid warmup contamination; all later successful POST headers counted. Bounds coupled: pair totals exactly15.
+D2,1,prefill,9,10,15,1,Exclude formal-origin second to avoid warmup contamination; all later successful POST headers counted. Bounds coupled: pair totals exactly15.
+D2,2,decode,8,9,15,1,Exclude formal-origin second to avoid warmup contamination; all later successful POST headers counted. Bounds coupled: pair totals exactly15.
+D2,3,decode,6,7,15,1,Exclude formal-origin second to avoid warmup contamination; all later successful POST headers counted. Bounds coupled: pair totals exactly15.

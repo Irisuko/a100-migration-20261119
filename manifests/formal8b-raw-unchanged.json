@@ -1,0 +1,26 @@
+[
+  {
+    "label": "fair8b-20261117T142324Z",
+    "raw_input_request_summary_files_verified": 132,
+    "frozen_runtime_pins_verified": 0,
+    "new_internal_manifest_files": 1922
+  },
+  {
+    "label": "edge8b-20261117T161715Z",
+    "raw_input_request_summary_files_verified": 212,
+    "frozen_runtime_pins_verified": 0,
+    "new_internal_manifest_files": 2815
+  },
+  {
+    "label": "pcie-host8b-20261118T025723Z",
+    "raw_input_request_summary_files_verified": 68,
+    "frozen_runtime_pins_verified": 1142,
+    "new_internal_manifest_files": 2070
+  },
+  {
+    "label": "pd-boundary-mini-20261118T074218Z",
+    "raw_input_request_summary_files_verified": 75,
+    "frozen_runtime_pins_verified": 1142,
+    "new_internal_manifest_files": 2176
+  }
+]

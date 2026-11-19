@@ -1,0 +1,14 @@
+638aa79412593f10d8008b117516e4f98e661e0e refs/heads/muxwise-pp
+638aa79412593f10d8008b117516e4f98e661e0e refs/remotes/origin/HEAD
+638aa79412593f10d8008b117516e4f98e661e0e refs/remotes/origin/muxwise-pp
+2374302bb75443ee572927d35a309def4777c06d refs/remotes/origin/p7a-preserved-p5a
+4c10135d2e2891d6fb262d4894f0769c86dd5751 refs/tags/big-model-p10b
+88d3eab9ee6e2e092f54dfedec7c8309764949ef refs/tags/muxpp-p1
+c74f56ff1fbeda47cbbc4e99fc21d702644b6ec1 refs/tags/muxpp-p2-0
+d8dfbfaba84ba1257cc42a519c24fc6c71987ef7 refs/tags/muxpp-tp-p8a
+bd849d628cd6332defee24945ce71db3fa662f90 refs/tags/muxpp-v1-p3b
+f91e8a18da502106a07bb67c67dbf351a933bfd9 refs/tags/muxpp-v3
+f6833f24ef0587278ae799696cfe17c3ade99048 refs/tags/muxpp-v4
+1dcbb285e958936113e373d4b0ff1b30f63aaed2 refs/tags/muxpp-v5
+2374302bb75443ee572927d35a309def4777c06d refs/tags/pd-p5a-frozen
+19261937a524bc67216d8b925a8ea5e50bfda0f3 refs/tags/pd-r2-isolated

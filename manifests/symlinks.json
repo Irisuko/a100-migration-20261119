@@ -1,0 +1,1244 @@
+[
+  {
+    "path": "workspace/muxwise-pp-sglang/python/sglang/srt/mem_cache/cpp_radix_tree/.clang-format",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../../../../../sgl-kernel/.clang-format"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-root-v1/startup-fixtures/test_actual_cpu_measurement_ancurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-root-v1/startup-fixtures/test_actual_cpu_measurement_an0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-root-v1/startup-fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-root-v1/startup-fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-root-v1/startup-fixtures/test_real_installed_router_bou0/offline/runtime-startup/service-0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-root-v1/startup-fixtures/test_real_installed_router_bou0/audit"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/diagnose-fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/diagnose-fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green-fixtures/test_actual_cpu_measurement_ancurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green-fixtures/test_actual_cpu_measurement_an0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green-fixtures/test_malformed_native_events_rcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green-fixtures/test_malformed_native_events_r12"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green-fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green-fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green2-fixtures/test_actual_cpu_measurement_ancurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green2-fixtures/test_actual_cpu_measurement_an0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green2-fixtures/test_malformed_native_events_rcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green2-fixtures/test_malformed_native_events_r12"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green2-fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/green2-fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/red-fixtures/test_malformed_native_events_rcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/red-fixtures/test_malformed_native_events_r12"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_actual_cpu_measurement_ancurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_actual_cpu_measurement_an0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_actual_spawn_and_tracker_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_actual_spawn_and_tracker_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_future_long_validator_reqcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_future_long_validator_req0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_job_candidate_rejects_outcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_job_candidate_rejects_out0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_malformed_native_events_rcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_malformed_native_events_r12"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_pin_rejects_weights_beforcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_pin_rejects_weights_befor0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_pretrace_clock_writes_frecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_pretrace_clock_writes_fre0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_qualification_missing_or_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_qualification_missing_or_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_scoped_qualification_requcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_scoped_qualification_requ0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_real_installed_router_bou0/offline/runtime-startup/service-0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-closure-v1/v7-fixtures/test_real_installed_router_bou0/audit"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_actual_cpu_measurement_ancurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_actual_cpu_measurement_an0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_invalid_complete_and_bouncurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_invalid_complete_and_boun0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_malformed_native_events_rcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_malformed_native_events_r12"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_real_installed_router_bou0/offline/runtime-startup/service-0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-startup-independent-v1/fixtures/test_real_installed_router_bou0/audit"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/green-fixtures/test_nonpython_preload_inheritcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/green-fixtures/test_nonpython_preload_inherit5"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/green-fixtures/test_nonpython_receipt_cannot_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/green-fixtures/test_nonpython_receipt_cannot_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/green-fixtures/test_partial_python_api_refusecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/green-fixtures/test_partial_python_api_refuse0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/green-fixtures/test_python_child_exec_native_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/green-fixtures/test_python_child_exec_native_1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/red-fixtures/test_nonpython_preload_inheritcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/red-fixtures/test_nonpython_preload_inherit5"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/red-fixtures/test_nonpython_receipt_cannot_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/red-fixtures/test_nonpython_receipt_cannot_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/red-fixtures/test_partial_python_api_refusecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/red-fixtures/test_partial_python_api_refuse0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/red-fixtures/test_python_child_exec_native_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/red-fixtures/test_python_child_exec_native_1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_actual_cpu_measurement_ancurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_actual_cpu_measurement_an0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_actual_spawn_and_tracker_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_actual_spawn_and_tracker_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_deleted_source_replay_andcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_deleted_source_replay_and0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_future_long_validator_reqcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_future_long_validator_req0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_job_candidate_rejects_outcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_job_candidate_rejects_out0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_malformed_native_events_rcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_malformed_native_events_r12"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_nonpython_preload_inheritcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_nonpython_preload_inherit5"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_nonpython_receipt_cannot_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_nonpython_receipt_cannot_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_partial_python_api_refusecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_partial_python_api_refuse0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_pin_rejects_weights_beforcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_pin_rejects_weights_befor0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_pretrace_clock_writes_frecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_pretrace_clock_writes_fre0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_python_child_exec_native_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_python_child_exec_native_1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_qualification_missing_or_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_qualification_missing_or_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_scoped_qualification_requcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-startup-v1/suite-fixtures/test_scoped_qualification_requ0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_actual_cpu_measurement_ancurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_actual_cpu_measurement_an0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_actual_spawn_and_tracker_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_actual_spawn_and_tracker_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_deleted_source_replay_andcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_deleted_source_replay_and0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_future_long_validator_reqcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_future_long_validator_req0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_job_candidate_rejects_outcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_job_candidate_rejects_out0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_malformed_native_events_rcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_malformed_native_events_r12"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_pin_rejects_weights_beforcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_pin_rejects_weights_befor0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_pretrace_clock_writes_frecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_pretrace_clock_writes_fre0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_qualification_missing_or_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_qualification_missing_or_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_scoped_qualification_requcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_scoped_qualification_requ0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_real_installed_router_bou0/offline/runtime-startup/service-0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/fixtures-v2/test_real_installed_router_bou0/audit"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/router-fixture-v3/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-7a9f05be-startup-v1/router-fixture-v3/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_actual_spawn_and_tracker_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_actual_spawn_and_tracker_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_future_long_validator_reqcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_future_long_validator_req0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_job_candidate_rejects_outcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_job_candidate_rejects_out0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_pin_rejects_weights_beforcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_pin_rejects_weights_befor0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_pretrace_clock_writes_frecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_pretrace_clock_writes_fre0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_qualification_missing_or_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_qualification_missing_or_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_scoped_qualification_requcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-integration/test_scoped_qualification_requ0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-router/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-next8b-v1/pytest-router/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-startup-impl-v1/cpu-fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-startup-impl-v1/cpu-fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_actual_cpu_measurement_ancurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_actual_cpu_measurement_an0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_actual_spawn_and_tracker_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_actual_spawn_and_tracker_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_deleted_source_replay_andcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_deleted_source_replay_and0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_future_long_validator_reqcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_future_long_validator_req0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_job_candidate_rejects_outcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_job_candidate_rejects_out0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_malformed_native_events_rcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_malformed_native_events_r12"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_nonpython_preload_inheritcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_nonpython_preload_inherit5"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_nonpython_receipt_cannot_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_nonpython_receipt_cannot_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_partial_python_api_refusecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_partial_python_api_refuse0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_pin_rejects_weights_beforcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_pin_rejects_weights_befor0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_pretrace_clock_writes_frecurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_pretrace_clock_writes_fre0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_python_child_exec_native_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_python_child_exec_native_1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_qualification_missing_or_current",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_qualification_missing_or_0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_real_installed_router_boucurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_real_installed_router_bou0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_scoped_qualification_requcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-c128bf31-v9-independent-v1/runtime-fixtures/test_scoped_qualification_requ0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/fixtures/test_duplicate_wrapper_delegatcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/fixtures/test_duplicate_wrapper_delegat0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/fixtures/test_real_child_duplicate_bouncurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/fixtures/test_real_child_duplicate_boun0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/fixtures/test_real_child_duplicate_boun0/offline/runtime-startup/service-0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/fixtures/test_real_child_duplicate_boun0/audit"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/native-duplicate-fixtures/test_actual_native_duplicate_wcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/native-duplicate-fixtures/test_actual_native_duplicate_w0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/native-duplicate-v2-fixtures/test_actual_native_duplicate_wcurrent",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-startup-v1/native-duplicate-v2-fixtures/test_actual_native_duplicate_w0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/8b-devcal-cpu-assessment-v3",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/user-continue-8b-finalizer-v3"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/8b-devcal-postcleanup-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-cpu-assessment-v3-postcleanup-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/effective30-formal-adapter-replay-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-effective30-formal-adapter-replay-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-dev-first-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v2/executions/main0123-8b-dev-first-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-dev-first-v2",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v3/executions/main0123-8b-dev-first-v2"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-dev-first-v3",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v4/executions/main0123-8b-dev-first-v3"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-chunked-pp2dp2-tool-four-v9",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v9/executions/main0123-8b-short-chunked-pp2dp2-tool-four-v9"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-chunked-pp2dp2-tool-remaining-three-v10",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v10/executions/main0123-8b-short-chunked-pp2dp2-tool-remaining-three-v10"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-chunked-pp4-conversation-four-v9",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v9/executions/main0123-8b-short-chunked-pp4-conversation-four-v9"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-default3-twelve-v10",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v10/executions/main0123-8b-short-default3-twelve-v10"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-muxpp-tool-four-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v6/executions/main0123-8b-short-muxpp-tool-four-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-muxpp-tool-remaining-three-v8",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v8/executions/main0123-8b-short-muxpp-tool-remaining-three-v8"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-muxpp-tool-remaining-two-v9",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v9/executions/main0123-8b-short-muxpp-tool-remaining-two-v9"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-pd2-eight-v10",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v10/executions/main0123-8b-short-pd2-eight-v10"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-8b-short-tp4-eight-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-runtime-integration-v6/executions/main0123-8b-short-tp4-eight-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-chunked-pp2dp2-tool-actual-prefix-oracle-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-chunked-pp2dp2-tool-actual-prefix-oracle-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-chunked-pp4-conversation-actual-prefix-oracle-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-chunked-pp4-conversation-actual-prefix-oracle-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-coarse40-native-inventory-cpu-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/main0123-coarse40-native-inventory-cpu-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-continuous-preparation-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-continuous-preparation-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-default3-actual-prefix-oracle-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-default3-actual-prefix-oracle-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-muxpp-tool-actual-prefix-oracle-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-muxpp-tool-actual-prefix-oracle-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-pd2-actual-prefix-oracle-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-pd2-actual-prefix-oracle-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-remaining8b-qual-default-v2",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-remaining8b-qualification-batches-v2/executions/default"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-remaining8b-qual-nvlink-v2",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-remaining8b-qualification-batches-v2/executions/nvlink"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-resume-chain-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-resume-chain-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-short-recovery-boundary-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-short-recovery-boundary-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-targetpool-qualification-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-targetpool-qualification-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/main0123-tp4-actual-prefix-oracle-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-tp4-actual-prefix-oracle-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/oracle8b-remaining-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/pool4567-selected-remaining-oracle-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/oracle8b-s2-single-v2",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/pool4567-selected-s2-oracle-single-v2"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/oracle8b-task07-v2",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/pool4567-selected-task07-oracle-v2"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/release-all-gpus-cpu-only-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/user-drain-all-gpus-cpu-only-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/remaining-qual-8b-chunked-pp2dp2-toolagent-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-remaining8b-qualification-v1/executions/8b-chunked-pp2dp2-toolagent"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/remaining-qual-8b-chunked-pp4-conversation-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-remaining8b-qualification-v1/executions/8b-chunked-pp4-conversation"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/remaining-qual-8b-muxpp-pp2dp2-toolagent-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/main0123-remaining8b-qualification-v1/executions/8b-muxpp-pp2dp2-toolagent"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/selected8b-devcal-pd6-continuation-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/pool4567-devcal-pd6-continuation-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/selected8b-devcal-recovery-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/pool4567-selected-devcal-recovery-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/selected8b-devcal-v1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/proposals/pool4567-selected-devcal-supervisor-v1"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/automation/registered-outers/selected8b-effective30-finalizer-v2",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-pd6-finalizer-v2"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/lib/x86_64-linux-gnu/libnl-3.so.200",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libnl-3.so.200.26.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/libefa.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libefa.so.1.1.39.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/libibverbs.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libibverbs.so.1.14.39.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/libmlx4.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libmlx4.so.1.0.39.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/libmlx5.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libmlx5.so.1.22.39.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/libnl-route-3.so.200",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libnl-route-3.so.200.26.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/librdmacm.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librdmacm.so.1.3.39.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/libibverbs/libefa-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libefa.so.1.1.39.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/libibverbs/libmlx4-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libmlx4.so.1.0.39.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/libibverbs/libmlx5-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libmlx5.so.1.22.39.0"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/rsocket/librspreload.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librspreload.so"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/lib/x86_64-linux-gnu/rsocket/librspreload.so.1.0.0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librspreload.so"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/share/doc/ibverbs-providers/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libibverbs1/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/share/doc/libnl-route-3-200/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libnl-3-200/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/root/usr/share/doc/librdmacm1/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libibverbs1/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_dev_conversation_1200_240_x2.5.jsonl",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_dev_conversation_1200_240_x2.5.jsonl"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_dev_conversation_1200_240_x2.5.stats.json",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_dev_conversation_1200_240_x2.5.stats.json"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_dev_toolagent_1200_240_x2.5.jsonl",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_dev_toolagent_1200_240_x2.5.jsonl"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_dev_toolagent_1200_240_x2.5.stats.json",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_dev_toolagent_1200_240_x2.5.stats.json"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_formal_conversation_600_240_x2.5.jsonl",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_formal_conversation_600_240_x2.5.jsonl"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_formal_conversation_600_240_x2.5.stats.json",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_formal_conversation_600_240_x2.5.stats.json"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_formal_toolagent_600_240_x2.5.jsonl",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_formal_toolagent_600_240_x2.5.jsonl"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_formal_toolagent_600_240_x2.5.stats.json",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_formal_toolagent_600_240_x2.5.stats.json"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_heldout_conversation_1440_1560_x2.5.jsonl",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_heldout_conversation_1440_1560_x2.5.jsonl"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_heldout_conversation_1440_1560_x2.5.stats.json",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_heldout_conversation_1440_1560_x2.5.stats.json"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_heldout_toolagent_1440_1560_x2.5.jsonl",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_heldout_toolagent_1440_1560_x2.5.jsonl"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/generated/llama31_8b_heldout_toolagent_1440_1560_x2.5.stats.json",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/generated/llama31_8b_heldout_toolagent_1440_1560_x2.5.stats.json"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/source/conversation_trace.jsonl",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/source/conversation_trace.jsonl"
+  },
+  {
+    "path": "workspace/muxwise-pp-sglang/run/a100-gpu0123-20261114/traces/source/toolagent_trace.jsonl",
+    "mode": 511,
+    "type": "symlink",
+    "target": "/data01/home/mhy/workspace/muxwise-pp-sglang/run/a100-4gpu-20261114/traces/source/toolagent_trace.jsonl"
+  },
+  {
+    "path": "workspace/muxwise-pp-diagnostics/perf35-current-20261114T033527Z/source/python/sglang/srt/mem_cache/cpp_radix_tree/.clang-format",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../../../../../sgl-kernel/.clang-format"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/lib/x86_64-linux-gnu/libnl-3.so.200",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libnl-3.so.200.26.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libefa.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libefa.so.1.1.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libibverbs.so.1.14.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libmlx4.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libmlx4.so.1.0.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libmlx5.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libmlx5.so.1.22.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libnl-route-3.so.200",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libnl-route-3.so.200.26.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/librdmacm.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librdmacm.so.1.3.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libefa-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libefa.so.1.1.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libmlx4-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libmlx4.so.1.0.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libmlx5-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libmlx5.so.1.22.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/rsocket/librspreload.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librspreload.so"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/rsocket/librspreload.so.1.0.0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librspreload.so"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/share/doc/ibverbs-providers/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libibverbs1/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/share/doc/libnl-route-3-200/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libnl-3-200/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/experiment-reports/edge8b-20261117T161715Z/environment/rdma/root/usr/share/doc/librdmacm1/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libibverbs1/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/lib/x86_64-linux-gnu/libnl-3.so.200",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libnl-3.so.200.26.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libefa.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libefa.so.1.1.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libibverbs.so.1.14.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libmlx4.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libmlx4.so.1.0.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libmlx5.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libmlx5.so.1.22.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libnl-route-3.so.200",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libnl-route-3.so.200.26.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/librdmacm.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librdmacm.so.1.3.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libefa-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libefa.so.1.1.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libmlx4-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libmlx4.so.1.0.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libmlx5-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libmlx5.so.1.22.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/rsocket/librspreload.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librspreload.so"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/rsocket/librspreload.so.1.0.0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librspreload.so"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/share/doc/ibverbs-providers/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libibverbs1/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/share/doc/libnl-route-3-200/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libnl-3-200/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/experiment-reports/fair8b-20261117T142324Z/environment/rdma/root/usr/share/doc/librdmacm1/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libibverbs1/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/lib/x86_64-linux-gnu/libnl-3.so.200",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libnl-3.so.200.26.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libefa.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libefa.so.1.1.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libibverbs.so.1.14.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libmlx4.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libmlx4.so.1.0.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libmlx5.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libmlx5.so.1.22.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libnl-route-3.so.200",
+    "mode": 511,
+    "type": "symlink",
+    "target": "libnl-route-3.so.200.26.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/librdmacm.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librdmacm.so.1.3.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libefa-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libefa.so.1.1.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libmlx4-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libmlx4.so.1.0.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/libibverbs/libmlx5-rdmav34.so",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libmlx5.so.1.22.39.0"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/rsocket/librspreload.so.1",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librspreload.so"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/lib/x86_64-linux-gnu/rsocket/librspreload.so.1.0.0",
+    "mode": 511,
+    "type": "symlink",
+    "target": "librspreload.so"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/share/doc/ibverbs-providers/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libibverbs1/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/share/doc/libnl-route-3-200/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libnl-3-200/changelog.Debian.gz"
+  },
+  {
+    "path": "workspace/experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/root/usr/share/doc/librdmacm1/changelog.Debian.gz",
+    "mode": 511,
+    "type": "symlink",
+    "target": "../libibverbs1/changelog.Debian.gz"
+  }
+]

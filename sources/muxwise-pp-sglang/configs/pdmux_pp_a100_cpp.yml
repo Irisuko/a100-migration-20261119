@@ -1,0 +1,32 @@
+# Pilot-selected CPP profile; pass --pdmux-pp-prefill-chunk-size 2048.
+# Same A100 calibration as pdmux_pp_a100.yml; see run/a100/pilot-selection.json.
+sm_group_num: 8
+manual_divisions:
+- - 100
+  - 8
+  - 1
+- - 92
+  - 16
+  - 1
+- - 84
+  - 24
+  - 5
+- - 76
+  - 32
+  - 17
+- - 60
+  - 48
+  - 17
+- - 52
+  - 56
+  - 17
+decode_bs_divisor: 32
+split_forward_token_budget: 32768
+pp_profile_decode: true
+pp_decode_extra_contexts:
+- 128
+- 512
+- 1024
+pp_prefetch: true
+pp_prefetch_slots: 2
+pp_async_decode: true

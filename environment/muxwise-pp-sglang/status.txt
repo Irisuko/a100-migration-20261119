@@ -1,0 +1,66 @@
+ D H200_result.png
+ M README.md
+ D bench_chunk.sh
+ M bench_pdmux.sh
+ M benchmark/kernels/fused_moe_triton/README.md
+ D benchmark/pd_4090/p4a_profiles.json
+ D configs/pdmux_pp_4090_v2.yml
+ D configs/pdmux_pp_4090_v3.yml
+ M docs/advanced_features/pd_multiplexing.md
+ D loogle.yml
+ M pdmux_readme.md
+ M python/sglang/srt/disaggregation/mooncake/conn.py
+ M python/sglang/srt/distributed/device_communicators/custom_all_reduce.py
+ M python/sglang/srt/distributed/device_communicators/custom_all_reduce_utils.py
+ M python/sglang/srt/entrypoints/http_server.py
+ M python/sglang/srt/layers/attention/fla/utils.py
+ M python/sglang/srt/layers/attention/flashinfer_backend.py
+ D python/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_1_0/E=64,N=640,device_name=NVIDIA_GeForce_RTX_4090,dtype=fp8_w8a8.json
+ D python/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_1_0/E=8,N=3584,device_name=NVIDIA_GeForce_RTX_4090,dtype=fp8_w8a8.json
+ M python/sglang/srt/managers/scheduler.py
+ M python/sglang/srt/managers/scheduler_profiler_mixin.py
+ M python/sglang/srt/managers/tokenizer_manager.py
+ M python/sglang/srt/managers/tp_worker_overlap_thread.py
+ M python/sglang/srt/multiplex/multiplexing_pp.py
+ M python/sglang/srt/multiplex/pdmux_context.py
+ M python/sglang/srt/multiplex/pp_policy.py
+ M python/sglang/srt/multiplex/pp_profile.py
+ M python/sglang/srt/server_args.py
+ M sgl-kernel/csrc/gemm/int8_gemm_kernel.cu
+ M sgl-kernel/python/sgl_kernel/flash_attn.py
+ M sgl-kernel/tests/test_flash_attention.py
+ D sharegpt.yml
+ D start_chunk.sh
+ M start_pdmux.sh
+ M test/srt/test_multiplexing_pp.py
+ M test/srt/test_multiplexing_pp_calibration.py
+ M test/srt/test_multiplexing_pp_policy.py
+ M test/srt/test_multiplexing_pp_tp.py
+?? A100_EXPERIMENTS.md
+?? LOCAL_RUN.md
+?? configs/local-build-constraints.txt
+?? configs/pdmux_pp_a100.yml
+?? configs/pdmux_pp_a100_calibration.yml
+?? configs/pdmux_pp_a100_cpp.yml
+?? configs/pdmux_pp_a100_local.yml
+?? docs/a100-correctness.md
+?? docs/superpowers/
+?? run/
+?? scripts/a100/
+?? scripts/a100_4gpu/
+?? scripts/a100_automation/
+?? scripts/a100_gpu0123/
+?? scripts/a100_gpu45/
+?? scripts/a100_gpu4567/
+?? scripts/a100_gpu67/
+?? scripts/build_spatial_local.py
+?? scripts/run_a100.sh
+?? scripts/run_a100_campaign.py
+?? scripts/run_local.sh
+?? scripts/smoke_local.py
+?? test/srt/test_flashinfer_plan_reuse.py
+?? test/srt/test_multiplexing_pp_profile_capacity.py
+?? test/srt/test_multiplexing_pp_profile_ranges.py
+?? test/srt/test_native_pp_abort.py
+?? test/srt/test_profiler_pp_paths.py
+?? test/srt/test_tokenizer_stream_coalescing.py

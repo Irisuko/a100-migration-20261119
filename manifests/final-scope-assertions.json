@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "retained70B_named_paths": 0,
+  "retained_tensor_pt_files": 0,
+  "retained_mixed_content_tar": 0,
+  "retained_historical70B_failure_json": 0,
+  "scope": "dedicated experiment payload exclusions; common multi-model runtime and8B-generated text retained"
+}

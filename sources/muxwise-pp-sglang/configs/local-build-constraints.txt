@@ -1,0 +1,2 @@
+# Reuse the runtime PyTorch version when building FlashInfer's source package.
+torch==2.8.0

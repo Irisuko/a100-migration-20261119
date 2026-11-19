@@ -1,0 +1,27 @@
+﻿rank,kind,bytes,repeats,total_payload_bytes,seconds,payload_GB_per_s,payload_valid,src,dst,scope
+0,allreduce,65536,16,1048576,0.40063632500823587,0.002617276403926789,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+0,allreduce,1048576,16,16777216,0.003920673974789679,4.279166313720334,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+0,allreduce,16777216,16,268435456,0.047801788081415,5.615594453136489,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+0,cuda_graph,,,0,,,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+0,pp_sendrecv,16777216,16,268435456,0.12325026199687272,2.1779706724421497,True,0,1,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+0,pd_host_staged,,,1073741824,0.16304598399437964,6.585515311048771,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+1,allreduce,65536,16,1048576,0.40051361091900617,0.0026180783159752545,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+1,allreduce,1048576,16,16777216,0.003895089030265808,4.307274075030602,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+1,allreduce,16777216,16,268435456,0.04779330000746995,5.616591780815393,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+1,cuda_graph,,,0,,,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+1,pp_sendrecv,16777216,16,268435456,0.12335694604553282,2.176087075801282,True,0,1,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+1,pp_sendrecv,16777216,16,268435456,0.20172854897100478,1.330676581818785,True,1,2,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+1,pd_host_staged,,,1073741824,0.16301799099892378,6.586646157399208,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+2,allreduce,65536,16,1048576,0.4004410649649799,0.0026185526204504078,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+2,allreduce,1048576,16,16777216,0.03440719598438591,0.48760776692217384,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+2,allreduce,16777216,16,268435456,0.047772194957360625,5.619073108103862,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+2,cuda_graph,,,0,,,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+2,pp_sendrecv,16777216,16,268435456,0.20184120198246092,1.3299338953764546,True,1,2,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+2,pp_sendrecv,16777216,16,268435456,0.18452390492893755,1.4547462352012215,True,2,3,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+2,pd_host_staged,,,1073741824,0.16301977704279125,6.586573994136627,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+3,allreduce,65536,16,1048576,0.4005310460925102,0.0026179643506531367,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+3,allreduce,1048576,16,16777216,0.0038885599933564663,4.314506148462045,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+3,allreduce,16777216,16,268435456,0.04775348794646561,5.621274330807657,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+3,cuda_graph,,,0,,,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+3,pp_sendrecv,16777216,16,268435456,0.18456137389875948,1.4544508979828539,True,2,3,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval
+3,pd_host_staged,,,1073741824,0.16301640507299453,6.586710236428083,True,,,calibration incl launch/sync overhead; PD each pair rate uses common barrier interval

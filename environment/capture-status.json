@@ -1,0 +1,12 @@
+{
+  "os-release": 0,
+  "uname": 0,
+  "cpu-numa": 0,
+  "numa": 0,
+  "gpu-driver": 0,
+  "pip-freeze": 1,
+  "pip-inspect": 1,
+  "nvcc": 0,
+  "python_target": "/data01/home/mhy/.local/share/uv/python/cpython-3.10.22-linux-x86_64-gnu/bin/python3.10",
+  "dependency_capture": "uv pip freeze plus importlib.metadata; venv intentionally has no pip"
+}

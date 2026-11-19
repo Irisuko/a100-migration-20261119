@@ -1,0 +1,4 @@
+﻿probe,NVLink_TX_KiB,NVLink_RX_KiB,verdict
+host-final/nccl-link-counters.json,0,0,SHM payload validated; zero NVLink
+host-final/pd-link-counters.json,0,0,PD host staging payload validated; zero NVLink
+p2p-pxb/nccl-link-counters.json,2962388,2962384,Still NVLink; not pure PCIe P2P

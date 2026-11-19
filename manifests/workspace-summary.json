@@ -1,0 +1,20 @@
+{
+  "counts": {
+    "directory": 4964,
+    "file": 236463,
+    "symlink": 207
+  },
+  "bytes_by_tree": {
+    "workspace/muxwise-pp-sglang": 62393430603,
+    "workspace/muxwise-pp-experiments": 39163898,
+    "workspace/muxwise-pp-diagnostics": 406593676,
+    "workspace/experiment-reports": 1328520227,
+    "dependencies/sgl_kernel-local": 356552
+  },
+  "regular_file_bytes": 64168064956,
+  "manifest_sha256": "55e4f4323f83240cd983f609718a4190786505102cf48d90e2a8eee872285af3",
+  "exclusions": 982,
+  "transformed_files": 1835,
+  "secret_marker_candidates": 0,
+  "generated_unix": 1795099958.2479887
+}

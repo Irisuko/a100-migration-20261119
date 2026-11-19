@@ -1,0 +1,17 @@
+﻿order,case,scene,family,input_tokens,output_tokens,transport,arrival_window_s,arrival_rate_rps,requests,arrival_rule,client_global_inflight_limit,drain_timeout_after_last_actual_send_s,repeats,additional_tuning_trials,status
+1,A1,prefill_heavy,pd,16384,32,native,30,1.5,45,"t_j=j/rate, j=0..N-1",128,120,1,0,planned_not_started
+2,A1,prefill_heavy,muxpp,16384,32,native,30,1.5,45,"t_j=j/rate, j=0..N-1",128,120,1,0,planned_not_started
+3,A2,prefill_heavy,muxpp,24576,32,native,30,1.5,45,"t_j=j/rate, j=0..N-1",128,120,1,0,planned_not_started
+4,A2,prefill_heavy,pd,24576,32,native,30,1.5,45,"t_j=j/rate, j=0..N-1",128,120,1,0,planned_not_started
+5,B1,decode_heavy,pd,128,2048,native,30,2,60,"t_j=j/rate, j=0..N-1",128,240,1,0,planned_not_started
+6,B1,decode_heavy,muxpp,128,2048,native,30,2,60,"t_j=j/rate, j=0..N-1",128,240,1,0,planned_not_started
+7,B2,decode_heavy,muxpp,128,4096,native,30,2,60,"t_j=j/rate, j=0..N-1",128,445,1,0,planned_not_started
+8,B2,decode_heavy,pd,128,4096,native,30,2,60,"t_j=j/rate, j=0..N-1",128,445,1,0,planned_not_started
+9,C1,decode_kv_capacity,pd,24576,4096,native,2,12,24,"t_j=j/rate, j=0..N-1",128,445,1,0,planned_not_started
+10,C1,decode_kv_capacity,muxpp,24576,4096,native,2,12,24,"t_j=j/rate, j=0..N-1",128,445,1,0,planned_not_started
+11,C2,decode_kv_capacity,muxpp,24576,4096,native,2,24,48,"t_j=j/rate, j=0..N-1",128,445,1,0,planned_not_started
+12,C2,decode_kv_capacity,pd,24576,4096,native,2,24,48,"t_j=j/rate, j=0..N-1",128,445,1,0,planned_not_started
+13,D1,kv_transfer,pd,24576,128,tcp_unlimited,30,0.5,15,"t_j=j/rate, j=0..N-1",128,120,1,0,planned_not_started
+14,D1,kv_transfer,muxpp,24576,128,tcp_unlimited,30,0.5,15,"t_j=j/rate, j=0..N-1",128,120,1,0,planned_not_started
+15,D2,kv_transfer,muxpp,24576,128,tcp_10gbit,30,0.5,15,"t_j=j/rate, j=0..N-1",128,120,1,0,planned_not_started
+16,D2,kv_transfer,pd,24576,128,tcp_10gbit,30,0.5,15,"t_j=j/rate, j=0..N-1",128,120,1,0,planned_not_started

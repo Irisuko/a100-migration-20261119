@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/Irisuko/muxwise-pp-experiments",
+  "revision": "d578ee53a9243b799348952303a1185d255d9cb7",
+  "source_files_sha256": {
+    "bench_client.py": "e065ce2b1e2373ba5a783ff1beb8c5ace3333ac6e099fb559d236f1bacca832b",
+    "common.py": "eb8213e6c1900da330598b34716a00da631931e345c9080d969f2c19c69a8a72",
+    "metrics.py": "45df527e7e96235fef34cd448a37e87a293172b69a85028b9ebe58c87001128c"
+  },
+  "adapted_files_sha256": {
+    "bench_client.py": "e54c76a2b07143f31e756b64480707cc771baa6eebd256cce877ae9b9bdc564f",
+    "common.py": "eb8213e6c1900da330598b34716a00da631931e345c9080d969f2c19c69a8a72",
+    "metrics.py": "408d3b449c3392d45d95a9743a7b8e3645ee5123471bb2ff7eb776358c6cb2fe"
+  }
+}

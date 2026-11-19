@@ -1,0 +1,102 @@
+[
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-11641eb9-independent-v1",
+    "reason": "review-confirmed70B opaque tensors/mixed archive; canonical8B evidence retained"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-root-v1",
+    "reason": "review-confirmed70B opaque tensors/mixed archive; canonical8B evidence retained"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/pool-gpu4567/rate-calibration/selected-dev600-1x2x4x-v1/content.tar",
+    "reason": "review-confirmed70B opaque tensors/mixed archive; canonical8B evidence retained"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/environment/rdma-local/pd-failure-analysis.json",
+    "reason": "contains historical70B PD failure rather than this8B measurement"
+  },
+  {
+    "path": "experiment-reports/edge8b-20261117T161715Z/environment/rdma/pd-failure-analysis.json",
+    "reason": "contains historical70B PD failure rather than this8B measurement"
+  },
+  {
+    "path": "experiment-reports/fair8b-20261117T142324Z/environment/rdma/pd-failure-analysis.json",
+    "reason": "contains historical70B PD failure rather than this8B measurement"
+  },
+  {
+    "path": "experiment-reports/pcie-host8b-20261118T025723Z/environment/rdma/pd-failure-analysis.json",
+    "reason": "contains historical70B PD failure rather than this8B measurement"
+  },
+  {
+    "path": "experiment-reports/pd-boundary-mini-20261118T074218Z/environment/rdma/pd-failure-analysis.json",
+    "reason": "contains historical70B PD failure rather than this8B measurement"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-11641eb9-root-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-5b75a54e-attention-independent-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-68269fd6-root-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-71b28735-independent-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-71b28735-root-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-failure-independent-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-958957-root-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-9cdff221-continuation-independent-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d544a51c-attention-independent-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-d815319f-merge-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-qkv-v2-4762-independent-science-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-rootcause-70a38d-raw-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "muxwise-pp-sglang/run/a100-gpu0123-20261114/analysis/event-rootcause-70a38d-root-v1",
+    "reason": "local analysis hardcodes70B capture input; shared runtime retained separately"
+  },
+  {
+    "path": "experiment-reports/edge8b-20261117T161715Z-results.tar.gz",
+    "reason": "original package embeds70B failure; replace with explicitly labeled8B migration derivative"
+  },
+  {
+    "path": "experiment-reports/fair8b-20261117T142324Z.tar.gz",
+    "reason": "original package embeds70B failure; replace with explicitly labeled8B migration derivative"
+  },
+  {
+    "path": "experiment-reports/pcie-host8b-20261118T025723Z-results.tar.gz",
+    "reason": "original package embeds70B failure; replace with explicitly labeled8B migration derivative"
+  },
+  {
+    "path": "experiment-reports/pd-boundary-mini-20261118T074218Z-results.tar.gz",
+    "reason": "original package embeds70B failure; replace with explicitly labeled8B migration derivative"
+  }
+]

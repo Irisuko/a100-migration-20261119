@@ -1,0 +1,22 @@
+{
+  "reviewer": "/root/migration_review",
+  "review_scope": "read-only independent pre-upload backup selection,opaque artifacts,restoration tools and source requirements",
+  "initial_status": "BLOCKERS_FOUND_BEFORE_CONTENT_UPLOAD",
+  "fixes": [
+    "Broaden modelaliases and include id/case/nested args/config/command identity",
+    "Re-filter original structured bytes; support compoundjson backup extensions",
+    "Preserve explicit8B canonical run records, even when generated text mentions another model",
+    "Preserve original formal8B common runtime sources and all existing1142-pin sets",
+    "Remove12 confirmed70B tensors and21 dedicated local analysis programs via reviewed event subtree exclusions",
+    "Omit mixedcontent.tar; reviewer verified3217records had canonical copies or scoped exclusions",
+    "Replace4 originalformalarchives with clearly labeled derivatives excluding embedded70Bhistoricalfailure",
+    "Document that mixed-model historical renderers require adaptation after8B projection"
+  ],
+  "regression_tests": 9,
+  "fix_validation": "main agent performs final scope assertions,487raw-file equality,sourcepins,manifest and remote roundtrip; no second reviewer pass",
+  "limitations": [
+    "Common framework code/history may mention/support70B",
+    "No new-server GPU validation",
+    "Modelweights andvenv excluded by migration design"
+  ]
+}
