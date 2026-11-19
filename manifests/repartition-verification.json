@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "parts": 118,
+  "part_max_bytes": 134217728,
+  "total_bytes": 15817027259,
+  "archive_sha256_unchanged": "9a1d7326e7b03ce36a687f714d268dedbc8f720589aeff89b5c8e14d1297ee3c",
+  "reason": "earlier completed parts permit overlapping upload/download verification"
+}

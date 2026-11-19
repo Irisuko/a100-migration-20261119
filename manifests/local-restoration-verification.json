@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "entries": 241634,
+  "files": 236463,
+  "symlinks": 207,
+  "sha256_size_mode_symlinks_checked": true,
+  "extra_or_missing_entries": 0,
+  "reassembled_archive_sha256": "9a1d7326e7b03ce36a687f714d268dedbc8f720589aeff89b5c8e14d1297ee3c",
+  "archive_bytes": 15817027259,
+  "git_histories_fsck": {
+    "muxwise-pp-sglang": "638aa79412593f10d8008b117516e4f98e661e0e",
+    "muxwise-pp-experiments": "d578ee53a9243b799348952303a1185d255d9cb7"
+  },
+  "duration_s": 264.1609675884247,
+  "scope": "local generated release split assets reassembled and extracted to empty directory; remote byte identity checked separately; noGPU runtime validation"
+}

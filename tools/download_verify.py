@@ -5,7 +5,10 @@ from migration_tools import digest
 R=Path(__file__).resolve().parents[2];repo='Irisuko/a100-migration-20261119';tag='migration-20261119';dest=R/'verification/downloaded';dest.mkdir(exist_ok=True)
 meta=json.loads((R/'repository/manifests/release-assets.json').read_text());expected={x['name']:x for x in meta['assets']};p=R/'artifacts/SHA256SUMS';expected[p.name]={'name':p.name,'bytes':p.stat().st_size,'sha256':digest(p)}
 def download(name):
- start=time.time();print('DOWNLOAD_START',name,flush=True)
+ start=time.time();target=dest/name
+ if target.is_file() and target.stat().st_size==expected[name]['bytes'] and digest(target)==expected[name]['sha256']:
+  print('DOWNLOAD_SKIP_VERIFIED',name,flush=True);return {'name':name,'bytes':target.stat().st_size,'sha256':expected[name]['sha256'],'status':'download_verified','seconds':0}
+ print('DOWNLOAD_START',name,flush=True)
  for attempt in range(1,4):
   p=subprocess.run(['gh','release','download',tag,'--repo',repo,'--pattern',name,'--dir',str(dest),'--clobber'],capture_output=True,text=True)
   target=dest/name
@@ -17,9 +20,11 @@ start=time.time();submitted={};done=[]
 with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
  while len(done)<len(expected):
   rels=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/releases'],text=True));rel=next(x for x in rels if x['tag_name']==tag)
-  for asset in rel['assets']:
+  pages=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/releases/{rel["id"]}/assets?per_page=100','--paginate','--slurp'],text=True))
+  for asset in [x for page in pages for x in page]:
    name=asset['name']
    if name not in expected or name in submitted or asset['state']!='uploaded':continue
+   if name=='SHA256SUMS' and asset.get('digest')!='sha256:'+expected[name]['sha256']:continue
    assert asset['size']==expected[name]['bytes'] and asset.get('digest')=='sha256:'+expected[name]['sha256'],('remote asset digest mismatch',name)
    submitted[name]=pool.submit(download,name)
   done=[]

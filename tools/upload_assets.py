@@ -1,11 +1,12 @@
 from pathlib import Path
 import concurrent.futures,json,subprocess,time,hashlib
 R=Path(__file__).resolve().parents[2];repo='Irisuko/a100-migration-20261119';tag='migration-20261119'
-meta=json.loads((R/'repository/manifests/release-assets.json').read_text());names=[x['name'] for x in meta['assets']]+['SHA256SUMS']
+meta=json.loads((R/'repository/manifests/release-assets.json').read_text());names=['SHA256SUMS']+[x['name'] for x in meta['assets']]
 assert json.loads(subprocess.check_output(['gh','repo','view',repo,'--json','isPrivate'],text=True))['isPrivate']
 releases=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/releases'],text=True))
 release=next(x for x in releases if x['tag_name']==tag)
-remote={x['name']:x for x in release['assets']}
+pages=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/releases/{release["id"]}/assets?per_page=100','--paginate','--slurp'],text=True))
+remote={x['name']:x for page in pages for x in page}
 expected={x['name']:x for x in meta['assets']}
 expected['SHA256SUMS']={'bytes':(R/'artifacts/SHA256SUMS').stat().st_size,'sha256':hashlib.sha256((R/'artifacts/SHA256SUMS').read_bytes()).hexdigest()}
 def send(name):
