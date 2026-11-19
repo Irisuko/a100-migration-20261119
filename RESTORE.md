@@ -2,6 +2,8 @@
 
 仓库 `Irisuko/a100-migration-20261119` 必须保持 Private。Release 标签为 `migration-20261119`。这是一份排除70B专属材料后的迁移备份，不是整机镜像。
 
+本次完整流程建议预留约130GB空闲磁盘（分卷、合并包、恢复目录及8B模型/环境），后续实验输出另算。需要 git、gh、GNU tar、zstd、Python3。
+
 ## 1. 下载与验证
 
 在新服务器登录有该私有仓库权限的 GitHub 账号，再执行：
@@ -20,7 +22,7 @@ gh release download migration-20261119 --repo Irisuko/a100-migration-20261119 --
 cat .downloads/workspace.tar.zst.part-* > .downloads/workspace.tar.zst
 zstd -t .downloads/workspace.tar.zst
 mkdir restore-test
-tar --zstd -xf .downloads/workspace.tar.zst -C restore-test
+tar --zstd --same-permissions -xf .downloads/workspace.tar.zst -C restore-test
 zstd -d .downloads/workspace-manifest.jsonl.zst -o .downloads/workspace-manifest.jsonl
 python3 tools/migration_tools.py restore-test .downloads/workspace-manifest.jsonl
 ```
