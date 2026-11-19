@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "checked_at_utc": "2026-11-19T15:20:34.126198+00:00",
+  "checks": {
+    "muxwise-pp-sglang": {
+      "head.txt": true,
+      "status.txt": true,
+      "unstaged.patch": true,
+      "staged.patch": true
+    },
+    "muxwise-pp-experiments": {
+      "head.txt": true,
+      "status.txt": true,
+      "unstaged.patch": true,
+      "staged.patch": true
+    }
+  },
+  "scope": "Original HEAD, short status and tracked staged/unstaged binary diffs remain identical to pre-migration capture."
+}

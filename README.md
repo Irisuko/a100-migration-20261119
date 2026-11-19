@@ -33,4 +33,15 @@
 
 ## 迁移验证状态
 
-代码与清单已准备，完整Release上传和下载恢复校验进行中。最终状态以 `manifests/remote-roundtrip-verification.json` 为准。
+2026-11-19（UTC）：上传、远端回读校验和离线恢复验证已完成。
+
+| 检查 | 结果 |
+| --- | --- |
+| Release附件 | 124个，共16,199,860,599字节，名称、大小和SHA256全部匹配 |
+| 实际下载校验 | 124/124通过 |
+| 下载分卷拼接后的整包SHA256 | 与已完成离线恢复验证的原包一致 |
+| 空目录恢复校验 | 236,463个文件、207个软链接通过；无缺失或多余条目 |
+| 原Git历史 | 两个仓库的完整性检查通过 |
+| 最近四轮8B原始测量材料 | 487个文件与迁移前原件逐字节一致 |
+
+[下载私有Release](https://github.com/Irisuko/a100-migration-20261119/releases/tag/migration-20261119)，按 [RESTORE.md](RESTORE.md) 恢复。验证证据见 `manifests/end-to-end-restoration-verification.json`、`remote-roundtrip-verification.json` 和 `local-restoration-verification.json`。这些检查不包含新服务器GPU推理验收。

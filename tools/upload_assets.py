@@ -20,5 +20,5 @@ def send(name):
    row={'name':name,'status':'uploaded','seconds':time.time()-start,'attempt':attempt};print('UPLOAD_DONE',json.dumps(row),flush=True);return row
   print('UPLOAD_RETRY',name,attempt,p.stderr[-800:],flush=True);time.sleep(5*attempt)
  raise RuntimeError('Upload failed '+name)
-with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:rows=list(pool.map(send,names))
+with concurrent.futures.ThreadPoolExecutor(max_workers=32) as pool:rows=list(pool.map(send,names))
 (R/'verification/upload-receipts.json').write_text(json.dumps(rows,indent=2)+'\n');print('UPLOAD_ALL_COMPLETE',len(rows),flush=True)

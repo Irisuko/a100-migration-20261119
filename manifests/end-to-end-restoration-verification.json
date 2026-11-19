@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "checked_at_utc": "2026-11-19T16:20:20.254950+00:00",
+  "remote_downloaded_parts": 118,
+  "archive_bytes": 15817027259,
+  "remote_reassembled_sha256": "9a1d7326e7b03ce36a687f714d268dedbc8f720589aeff89b5c8e14d1297ee3c",
+  "manifest_sha256": "55e4f4323f83240cd983f609718a4190786505102cf48d90e2a8eee872285af3",
+  "matches_offline_restored_archive": true,
+  "remote_assets_all_verified": 124,
+  "restored_files_verified": 236463,
+  "restored_symlinks_verified": 207,
+  "new_server_gpu_validation": false
+}

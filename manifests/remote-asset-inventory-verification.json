@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "checked_at_utc": "2026-11-19T16:17:16.178166+00:00",
+  "repository": "Irisuko/a100-migration-20261119",
+  "private": true,
+  "release_id": 451496536,
+  "draft_at_check": true,
+  "asset_count": 124,
+  "total_bytes": 16199860599,
+  "exact_asset_names": true,
+  "all_states_uploaded": true,
+  "all_api_sizes_and_sha256_match": true
+}
